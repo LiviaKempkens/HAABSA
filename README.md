@@ -4,7 +4,11 @@ HEAD
 
 =======
 JAA IS GOED XOXOXOXOXOXOX LIVIA KEMPKENS 
+HEAD
 >>>>>>> 90aa7e199783c40363ea7a202039243a0b37d0f1
+=======
+Test
+>>>>>>> 26f9a69ec9723d9f26116e2a36e8472f73c55333
 All software is written in PYTHON3 (https://www.python.org/) and makes use of the TensorFlow framework (https://www.tensorflow.org/).
 
 ## Installation Instructions (Windows):
@@ -15,6 +19,8 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 4. Download Glove Embeddings: http://nlp.stanford.edu/data/glove.42B.300d.zip
 5. Download Stanford CoreNLP parser: https://nlp.stanford.edu/software/stanford-parser-full-2018-02-27.zip
 6. Download Stanford CoreNLP Language models: https://nlp.stanford.edu/software/stanford-english-corenlp-2018-02-27-models.jar
+
+MIJ NIET BELLEN
 
 ### Setup Environment
 1. Install chocolatey (a package manager for Windows): https://chocolatey.org/install
@@ -72,3 +78,4 @@ This code uses ideas and code of the following related papers:
 - Liu, Q., Zhang, H., Zeng, Y., Huang, Z., and Wu, Z. (2018). Content attention model for aspect based sentiment analysis. In Proceedings of the 27th International World Wide Web Conference (WWW 2018). ACM Press.
 
 Sian
+Sjaan
