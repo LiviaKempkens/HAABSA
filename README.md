@@ -65,3 +65,4 @@ This code uses ideas and code of the following related papers:
 - Liu, Q., Zhang, H., Zeng, Y., Huang, Z., and Wu, Z. (2018). Content attention model for aspect based sentiment analysis. In Proceedings of the 27th International World Wide Web Conference (WWW 2018). ACM Press.
 
 Sian
+Sjaan
