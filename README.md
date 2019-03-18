@@ -12,6 +12,8 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 5. Download Stanford CoreNLP parser: https://nlp.stanford.edu/software/stanford-parser-full-2018-02-27.zip
 6. Download Stanford CoreNLP Language models: https://nlp.stanford.edu/software/stanford-english-corenlp-2018-02-27-models.jar
 
+MIJ NIET BELLEN
+
 ### Setup Environment
 1. Install chocolatey (a package manager for Windows): https://chocolatey.org/install
 2. Open a command prompt.
@@ -24,7 +26,7 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 9. Install the required packages from the requirements.txt file by running the following command: `code(pip install -r requirements.txt)`.
 10. Install the required space language pack by running the following command: `code(python -m spacy download en)`
 
-### Run Software DUCOS CHANGE
+### Run Software
 1. Configure one of the three main files to the required configuration (main.py, main_cross.py, main_hyper.py)
 2. Run the program from the command line by the following command: `code(python PROGRAM_TO_RUN.py)` (where PROGRAM_TO_RUN is main/main_cross/main_hyper)
 
