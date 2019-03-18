@@ -1,8 +1,10 @@
-# HAABSA Char
+# HAABSA
 Code for A Hybrid Approach for Aspect-Based Sentiment Analysis Using a Lexicalized Domain Ontology and Attentional Neural Models
+HEAD
 
-Char verandering
-
+=======
+JAA IS GOED XOXOXOXOXOXOX LIVIA KEMPKENS 
+>>>>>>> 90aa7e199783c40363ea7a202039243a0b37d0f1
 All software is written in PYTHON3 (https://www.python.org/) and makes use of the TensorFlow framework (https://www.tensorflow.org/).
 
 ## Installation Instructions (Windows):
@@ -25,6 +27,9 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 8. Activate the virtual environment by the following command: 'code(Scripts\activate.bat)`.
 9. Install the required packages from the requirements.txt file by running the following command: `code(pip install -r requirements.txt)`.
 10. Install the required space language pack by running the following command: `code(python -m spacy download en)`
+
+Char verandering
+Char verandering 2 
 
 ### Run Software
 1. Configure one of the three main files to the required configuration (main.py, main_cross.py, main_hyper.py)
@@ -64,3 +69,5 @@ This code uses ideas and code of the following related papers:
 - Zheng, S. and Xia, R. (2018). Left-center-right separated neural network for aspect-based sentiment analysis with rotatory attention. arXiv preprint arXiv:1802.00892.
 - Schouten, K. and Frasincar, F. (2018). Ontology-driven sentiment analysis of product and service aspects. In Proceedings of the 15th Extended Semantic Web Conference (ESWC 2018). Springer. To appear
 - Liu, Q., Zhang, H., Zeng, Y., Huang, Z., and Wu, Z. (2018). Content attention model for aspect based sentiment analysis. In Proceedings of the 27th International World Wide Web Conference (WWW 2018). ACM Press.
+
+Sian
