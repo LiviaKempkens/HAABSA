@@ -1,6 +1,7 @@
 # HAABSA
 Code for A Hybrid Approach for Aspect-Based Sentiment Analysis Using a Lexicalized Domain Ontology and Attentional Neural Models
 JAA IS GOED XOXOXOXOXOXOX LIVIA KEMPKENS 
+Test
 All software is written in PYTHON3 (https://www.python.org/) and makes use of the TensorFlow framework (https://www.tensorflow.org/).
 
 ## Installation Instructions (Windows):
@@ -66,3 +67,4 @@ This code uses ideas and code of the following related papers:
 - Liu, Q., Zhang, H., Zeng, Y., Huang, Z., and Wu, Z. (2018). Content attention model for aspect based sentiment analysis. In Proceedings of the 27th International World Wide Web Conference (WWW 2018). ACM Press.
 
 Sian
+Sjaan
