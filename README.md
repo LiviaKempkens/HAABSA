@@ -1,4 +1,4 @@
-# HAABSA kanoo 
+# HAABSA
 Code for A Hybrid Approach for Aspect-Based Sentiment Analysis Using a Lexicalized Domain Ontology and Attentional Neural Models
 
 All software is written in PYTHON3 (https://www.python.org/) and makes use of the TensorFlow framework (https://www.tensorflow.org/).
@@ -24,7 +24,7 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 9. Install the required packages from the requirements.txt file by running the following command: `code(pip install -r requirements.txt)`.
 10. Install the required space language pack by running the following command: `code(python -m spacy download en)`
 
-### Run Software
+### Run Software DUCOS CHANGE
 1. Configure one of the three main files to the required configuration (main.py, main_cross.py, main_hyper.py)
 2. Run the program from the command line by the following command: `code(python PROGRAM_TO_RUN.py)` (where PROGRAM_TO_RUN is main/main_cross/main_hyper)
 
