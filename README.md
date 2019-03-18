@@ -30,6 +30,7 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 
 Char verandering
 Char verandering 2 
+verandering.
 
 ### Run Software
 1. Configure one of the three main files to the required configuration (main.py, main_cross.py, main_hyper.py)
